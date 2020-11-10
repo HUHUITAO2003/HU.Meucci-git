@@ -1,7 +1,7 @@
 public class prova {
     public static void main(String[] args) {
-       	for(int i=1;i<11;i++){
-	    System.out.prontln(i);
+       	for(int contatore=1;contatore<=10;contatore++){
+	    System.out.prontln(contatore);
 	}	
     )
 }
